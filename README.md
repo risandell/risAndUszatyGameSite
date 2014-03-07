@@ -1,3 +1,3 @@
 risAndUszatyGameSite
 ====================
-All rights reservde
+all rights reserved
